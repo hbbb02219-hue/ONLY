@@ -23,5 +23,5 @@
 </p>---
 
 <p align="center">
-🔥 HAR HAR MAHADEV 🔱 ❤️
+🔥 JAI SHREE RAM 🔱 ❤️
 </p>
