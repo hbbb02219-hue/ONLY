@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=150&section=header&text=RISHANT%20BAAP&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>---
 
-<h2 align="center">⚡ GITHUB POWER ⚡</h2><p align="center">
+<h2 align="center">⚡ RISHANT BAAP KA POWER ⚡</h2><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
